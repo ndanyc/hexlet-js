@@ -4,4 +4,4 @@
 
     Установка зависимостей :
 
-    make install 
+    make install
